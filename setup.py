@@ -15,8 +15,8 @@ version = '.'.join([str(v) for v in [major, minor, patch]])
 setup(name='tsmetrics',
       version=version,
       description='Evaluation metrics for time series analysis',
-      url='<github repo url>',
-      download_url='<github repo url>',
+      url='https://github.com/pranavbahl2308/tsmetrics',
+      download_url='https://github.com/pranavbahl2308/tsmetrics',
 
       long_description=readme(),
       author='Pranav Bahl',
